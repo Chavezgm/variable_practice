@@ -1,6 +1,9 @@
 Myname = "Martin"
 Location = "Colorado"
 
+Location = "Texas"
+Myname = "Bob"
+
 My_age = 20
 Todays_day = 28
 Start_year = 2023
@@ -16,3 +19,8 @@ Car_blue = true
 Ate_today = false
 Gym_today = false
 
+puts "Hello, world"
+puts " How are you"
+puts "Nice car"
+puts "Thanks!"
+puts "You're welcome!"
