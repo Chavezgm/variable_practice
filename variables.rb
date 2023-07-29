@@ -1,0 +1,2 @@
+Myname = "Martin"
+Location = "Colorado"
